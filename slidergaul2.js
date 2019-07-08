@@ -6,9 +6,9 @@ class Slideshow {
       
         this.config = {
           slideshow: {
-            delay: 3000,
+            delay: 8000,
             pagination: {
-              duration: 3,
+              duration: 8,
             }
           }
         };
